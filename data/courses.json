@@ -1,0 +1,4740 @@
+[
+    {
+        "Code": "7PA1B20",
+        "Name": "AUDE project 1: Making & Structure",
+        "Quartiles": [
+            1,
+            4
+        ]
+    },
+    {
+        "Code": "0HV110",
+        "Name": "Advanced research methods and research ethics",
+        "Quartiles": [
+            1,
+            4
+        ]
+    },
+    {
+        "Code": "6A5X0",
+        "Name": "Advanced thermodynamics and kinetics",
+        "Quartiles": [
+            1,
+            4
+        ]
+    },
+    {
+        "Code": "DCB200",
+        "Name": "Aesthetics of interaction",
+        "Quartiles": [
+            1,
+            4
+        ]
+    },
+    {
+        "Code": "2WF90",
+        "Name": "Algebra for Security",
+        "Quartiles": [
+            1,
+            4
+        ]
+    },
+    {
+        "Code": "2WF70",
+        "Name": "Algorithmic Algebra and Number Theory",
+        "Quartiles": [
+            1,
+            4
+        ]
+    },
+    {
+        "Code": "1BK50",
+        "Name": "Algorithmic programming for operations management",
+        "Quartiles": [
+            1,
+            4
+        ]
+    },
+    {
+        "Code": "2ILC0",
+        "Name": "Algorithms",
+        "Quartiles": [
+            1,
+            3
+        ]
+    },
+    {
+        "Code": "8BM070",
+        "Name": "Applied cell biology",
+        "Quartiles": [
+            1,
+            4
+        ]
+    },
+    {
+        "Code": "8LC00",
+        "Name": "Applied cell biology",
+        "Quartiles": [
+            1,
+            4
+        ]
+    },
+    {
+        "Code": "3CQX0",
+        "Name": "Applied quantum physics",
+        "Quartiles": [
+            1,
+            4
+        ]
+    },
+    {
+        "Code": "7T8X0",
+        "Name": "Architecture and technology",
+        "Quartiles": [
+            1,
+            4
+        ]
+    },
+    {
+        "Code": "2IT90",
+        "Name": "Automata, Language Theory and Complexity",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5XSJ0",
+        "Name": "Automotive sensing",
+        "Quartiles": [
+            1,
+            4
+        ]
+    },
+    {
+        "Code": "0HV50",
+        "Name": "Behavioral research methods 2: dealing with data",
+        "Quartiles": [
+            1,
+            4
+        ]
+    },
+    {
+        "Code": "7EB0B20",
+        "Name": "Building acoustics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7PB1B20",
+        "Name": "Building inspection for future-proofing",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7B0B30",
+        "Name": "Building performance",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7S4X0",
+        "Name": "Building physics and building services engineering",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "JBE140",
+        "Name": "Business Insights and Networks",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "8BM020",
+        "Name": "CBL - Microscopy",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2WAB0",
+        "Name": "Calculus Variant 1",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2WBB0",
+        "Name": "Calculus Variant 2",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2WCB0",
+        "Name": "Calculus Variant 3",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "6BBR03",
+        "Name": "Calculus for CE&C",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "6BAR03",
+        "Name": "Chemical Bonding & Spectroscopy",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5EPC0",
+        "Name": "Circuits",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7PS1B21",
+        "Name": "Combined project Structural & Architectural Design 1",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2MBS80",
+        "Name": "Complex Networks",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5EIA0",
+        "Name": "Computation I: hardware/software interface",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "4MC10",
+        "Name": "Computational mechanics - numerical methods for fluids and solids",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2IV60",
+        "Name": "Computer Graphics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "4GC00",
+        "Name": "Computer aided engineering",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2MBC80",
+        "Name": "Continuous Optimization",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "3EDX0",
+        "Name": "Control and Data Processing in Physics Experiments",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5ESD0",
+        "Name": "Control systems",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5ESH0",
+        "Name": "Control systems",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "5XSC0",
+        "Name": "DBL Automotive design project electronic differential",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5ESC0",
+        "Name": "DSP fundamentals (signals II)",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "JBG060",
+        "Name": "Data Challenge 3",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "JBG050",
+        "Name": "Data Challenge 2",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "4WC00",
+        "Name": "Bachelor final project",
+        "Quartiles": [
+            1,2,3,4
+        ]
+    },
+    {
+        "Code": "4WBB0",
+        "Name": "Engineering Design",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "JBI030",
+        "Name": "Data Mining",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0LEUA0",
+        "Name": "Decisions under risk & uncertainty",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7EA1B20",
+        "Name": "Design for a Sustainable Future",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7XEUA0",
+        "Name": "Design for a Sustainable Future: exploratory",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7XAUA0",
+        "Name": "Design for a Sustainable Future: project",
+        "Quartiles": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "DBB190",
+        "Name": "Design for debate",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "DZC10",
+        "Name": "Design for games & play I; game design",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "DAB230",
+        "Name": "Design in context",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "DZB110",
+        "Name": "Design management",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1BV10",
+        "Name": "Design of business information systems",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7GC20",
+        "Name": "Design project on smart mobility",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "DUB210",
+        "Name": "Designing with more-than-human worlds",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "8LEU01",
+        "Name": "Digital Twin in Healthcare 1: Conceiving phase",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "DCB150",
+        "Name": "Digital craftsmanship",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1BK70",
+        "Name": "Digitalization and enterprise systems",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7S0B20",
+        "Name": "Dimensioning of structures",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "8BB010",
+        "Name": "Dynamic systems",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0SV70",
+        "Name": "Economic policy in practice: social cost benefit analysis",
+        "Quartiles": [
+            1,
+            3
+        ]
+    },
+    {
+        "Code": "0SV30",
+        "Name": "Economics of innovation: introduction",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5SEA0",
+        "Name": "Electrical energy phenomena & relations",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "6BER06",
+        "Name": "Electrochemical Energy Conversion and Storage",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5EPF0",
+        "Name": "Electromagnetics 1",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5EPA0",
+        "Name": "Electromagnetics I",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "8BE010",
+        "Name": "Electromagnetism",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5ECE0",
+        "Name": "Electronic Circuits 2",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "3BMX0",
+        "Name": "Elements of mathematical physics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "8BA020",
+        "Name": "Engineering a tissue",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "4CBLC00",
+        "Name": "Engineering design 1",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1ZAUB0",
+        "Name": "Entrepreneurship in action",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1ZK30",
+        "Name": "Entrepreneurship in action: ideation",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "JBM130",
+        "Name": "Finance and Entrepreneurship",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2MBS20",
+        "Name": "Foundations of Statistics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5UEUA0",
+        "Name": "From idea to a blueprint (note: 1st course)",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2IPH0",
+        "Name": "Functional Programming",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1JV00",
+        "Name": "Fundamentals of  work & organizational psychology",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0HV80",
+        "Name": "HTI in social context",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1CK110",
+        "Name": "Healthcare management and modeling",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7UB1B10",
+        "Name": "Healthy & sustainable living environments",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7EU0B20",
+        "Name": "Housing, real estate and urban economics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0HV140",
+        "Name": "Human-centered AI",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "DDB200",
+        "Name": "Human-centered design",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0LVX40",
+        "Name": "Impact of technology : engineering for society",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0ISBEP05",
+        "Name": "Innovationspace Bachelor end project extension (Interdisciplinary Learning)",
+        "Quartiles": [
+            1,
+            3
+        ]
+    },
+    {
+        "Code": "0ZK00",
+        "Name": "Intellectual property rights for new ventures",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2WAK0",
+        "Name": "Introduction asymptotic techniques",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7S9X0",
+        "Name": "Introduction building performance",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "8BB020",
+        "Name": "Introduction machine learning",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "4CBLA00",
+        "Name": "Introduction mechanical engineering and truss structures",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "8BA010",
+        "Name": "Introduction organic chemistry",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "6E2X0",
+        "Name": "Introduction polymer chemistry and technology",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0HV10",
+        "Name": "Introduction psychology and technology",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "31IAP",
+        "Name": "Introduction to Applied Physics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "31ILS",
+        "Name": "Introduction to Laboratory Skills",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "6BBR01",
+        "Name": "Introduction to Molecules and Processes",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "6BBR02",
+        "Name": "Introduction to Practical and Inorganic Chemistry",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "32IQP",
+        "Name": "Introduction to Quantum Physics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "34IQT",
+        "Name": "Introduction to Quantum Technologies",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "3BQX0",
+        "Name": "Introduction to quantum physics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5XCE0",
+        "Name": "Introduction to sensing",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "DAEU20",
+        "Name": "Introduction to sport, physical activity and vitality",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0SEUA0",
+        "Name": "Learning sequence quality of life: Exploratory course",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7HK40",
+        "Name": "Liberation of light technical project",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2MBA20",
+        "Name": "Linear Algebra 1",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2WO20",
+        "Name": "Linear Optimization",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2IT60",
+        "Name": "Logic and Set Theory",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5XSM0",
+        "Name": "MRI for the brain",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7EA0B20",
+        "Name": "Making Meaning",
+        "Quartiles": [
+            1,
+            3
+        ]
+    },
+    {
+        "Code": "1JK00",
+        "Name": "Management of human behavior in organizations (Non IE)",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "6M4X0",
+        "Name": "Materials science",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2WS30",
+        "Name": "Mathematical Statistics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2DD40",
+        "Name": "Mathematics 1",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2MBA70",
+        "Name": "Measure and probability theory",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2WAG0",
+        "Name": "Measure, Integration and Probability Theory",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "4RA00",
+        "Name": "Mechanics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "8DC00",
+        "Name": "Medical image analysis",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1ZV60",
+        "Name": "Methodology for IE research",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1CK90",
+        "Name": "Microeconomics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "4TC00",
+        "Name": "Model-based systems engineering",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7NN8X0",
+        "Name": "Multidisciplinary project 1",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "JBM080",
+        "Name": "Multivariable Mathematical Analysis",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "6BER01",
+        "Name": "Nanomaterials: Chemistry & Fabrication",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2IRR20",
+        "Name": "Networks",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1ZEUA0",
+        "Name": "New product marketing",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2MBC30",
+        "Name": "Numerical Linear Algebra",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "8BB070",
+        "Name": "Numerical analysis of continua",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2WN40",
+        "Name": "Numerical linear algebra",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1JV10",
+        "Name": "Organisational behaviour for industrial engineering",
+        "Quartiles": [
+            1,
+            2
+        ]
+    },
+    {
+        "Code": "2MBC90",
+        "Name": "Partial Differential Equations and Applications",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7A0B20",
+        "Name": "Parts & Details",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0SEUB0",
+        "Name": "Patents design rights & standards exploration course",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0SAUC0",
+        "Name": "Patents design rights & standards project",
+        "Quartiles": [
+            1,
+            3
+        ]
+    },
+    {
+        "Code": "5XTB0",
+        "Name": "Photonics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "6BPR02",
+        "Name": "Physical Transport Phenomena 2",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "3FMX0",
+        "Name": "Physical modelling and simulating",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "34PMS",
+        "Name": "Physics Modelling and Simulations",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "3CTX0",
+        "Name": "Physics of transport phenomena",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "6BMR05",
+        "Name": "Polymer Chemistry & Technology 1",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "6P4X0",
+        "Name": "Practical process technology",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2DI90",
+        "Name": "Probability and Statistics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2DW10",
+        "Name": "Probability and Statistics for ME",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "6BER07",
+        "Name": "Process Dynamics and Control",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "DLB384",
+        "Name": "Professional & personal development (PI&V) learning line 1",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "DLB385",
+        "Name": "Professional & personal development (PI&V) learning line 2",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "DLB386",
+        "Name": "Professional & personal development (PI&V) learning line 3",
+        "Quartiles": [
+            1,
+            3
+        ]
+    },
+    {
+        "Code": "2IP90",
+        "Name": "Programming",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "JBI010",
+        "Name": "Programming",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0HV120",
+        "Name": "Programming for psychology and technology",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7PS1B20",
+        "Name": "Project 1 Structural Engineering & Design",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7PU1B20",
+        "Name": "Project Making sustainable real estate feasible",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7P1B10",
+        "Name": "Project S",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7PP6X0",
+        "Name": "Project USRE: urban systems A",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0LAUK0",
+        "Name": "Project robots everywhere",
+        "Quartiles": [
+            1,
+            3
+        ]
+    },
+    {
+        "Code": "7A3B20",
+        "Name": "Qualitative Research and Design-oriented Methods",
+        "Quartiles": [
+            1,
+            4
+        ]
+    },
+    {
+        "Code": "7U0B20",
+        "Name": "Quantitative Research Methods and Statistics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "8BM010",
+        "Name": "Regeneration",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "8WC00",
+        "Name": "Regeneration",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "4AUB20",
+        "Name": "Road vehicle dynamics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2MBA10",
+        "Name": "Sets, Logic and Mathematical Language",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1JK20",
+        "Name": "Social innovation and sustainable employability",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0LEUB0",
+        "Name": "Social robots",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "3QEUS0",
+        "Name": "Sociophysics 1",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2IX20",
+        "Name": "Software Specification",
+        "Quartiles": [
+            1, 3
+        ]
+    },
+    {
+        "Code": "4CBLB00",
+        "Name": "Solar heat system",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "JBM050",
+        "Name": "Statistical computing",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "3FFX0",
+        "Name": "Statistical physics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7P0X0",
+        "Name": "Steel structures and applied mechanics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2DF20",
+        "Name": "Stochastics and Simulation for Finance",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "8TB10",
+        "Name": "Structure and function of joints",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1CV70",
+        "Name": "Supply chain management",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1CVK00",
+        "Name": "Supply chain management",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0SV00",
+        "Name": "Sustainable development in a global context",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0SV80",
+        "Name": "Sustainable technology in society: advanced",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1ZK10",
+        "Name": "Technology forecasting",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7EA5B20",
+        "Name": "Tectonics and materiality",
+        "Quartiles": [
+            1,
+            3
+        ]
+    },
+    {
+        "Code": "5XTA0",
+        "Name": "Telecommunications systems",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "4EB00",
+        "Name": "Thermodynamics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "1CK00",
+        "Name": "Transport and distribution",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "DPB240",
+        "Name": "CBL-Project 3",
+        "Quartiles": [
+            1, 3
+        ]
+    },
+    {
+        "Code": "33EDY",
+        "Name": "Electrodynamics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7W7X0",
+        "Name": "Urban planning",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "32VAN",
+        "Name": "Vector Analysis",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5AIC0",
+        "Name": "Vehicle networking",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "0HVL00",
+        "Name": "3D modeling studio for PT",
+        "Quartiles": [
+            2,
+            4
+        ]
+    },
+    {
+        "Code": "7S5X0",
+        "Name": "Acoustic awareness",
+        "Quartiles": [
+            2,
+            4
+        ]
+    },
+    {
+        "Code": "6BBR05",
+        "Name": "Advanced Calculus for CE&C",
+        "Quartiles": [
+            2,
+            4
+        ]
+    },
+    {
+        "Code": "2MBC50",
+        "Name": "Advanced Simulation Methods for Ordinary Differential Equations",
+        "Quartiles": [
+            2,
+            4
+        ]
+    },
+    {
+        "Code": "2MBD20",
+        "Name": "Algebraic Structures",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2MBA40",
+        "Name": "Analysis 1",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2WA60",
+        "Name": "Analysis 3",
+        "Quartiles": [
+            2,
+            4
+        ]
+    },
+    {
+        "Code": "0LSUA0",
+        "Name": "Analysis and control of risk",
+        "Quartiles": [
+            2,
+            4
+        ]
+    },
+    {
+        "Code": "2DBM90",
+        "Name": "Applied Biostatistical Modelling",
+        "Quartiles": [
+            2,
+            4
+        ]
+    },
+    {
+        "Code": "7A1B10",
+        "Name": "Architecture & the city",
+        "Quartiles": [
+            2,
+            4
+        ]
+    },
+    {
+        "Code": "0SV140",
+        "Name": "Assesment to support decision making",
+        "Quartiles": [
+            2,
+            4
+        ]
+    },
+    {
+        "Code": "2IRR90",
+        "Name": "Automata and Formal Languages",
+        "Quartiles": [
+            2,
+            4
+        ]
+    },
+    {
+        "Code": "2IWA0",
+        "Name": "Automotive Software Engineering",
+        "Quartiles": [
+            2,
+            4
+        ]
+    },
+    {
+        "Code": "8BM030",
+        "Name": "Bio-organic chemistry",
+        "Quartiles": [
+            2,
+            4
+        ]
+    },
+    {
+        "Code": "7U0B30",
+        "Name": "Urban planning",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7B2B30",
+        "Name": "Bachelor end project BPS",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "0BEPP0",
+        "Name": "Final project bachelor Psychology & Technology",
+        "Quartiles": [
+            1, 3
+        ]
+    },
+    {
+        "Code": "7S8X0",
+        "Name": "Building services",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7B1B30",
+        "Name": "Building services",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "JBM145",
+        "Name": "Business Value and Entrepreneurship",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "1BVK00",
+        "Name": "Business analytics & decision support",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "1BV70",
+        "Name": "Business analytics & decision support",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "6CBL01",
+        "Name": "CBL Molecules and Materials",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "6BER09",
+        "Name": "CBL Process Design",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "6CBL02",
+        "Name": "CBL Process Technology",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "0SK40",
+        "Name": "Climate change: understanding the causes and solutions",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "8BB030",
+        "Name": "Clinical measurements & signal processes",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "JBM090",
+        "Name": "Combinatorial Optimization for Data Science",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7PS2B21",
+        "Name": "Combined project Structural & Architectural Design 2",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5ETB0",
+        "Name": "Communication theory",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5ETC0",
+        "Name": "Communication 1",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "5ETD0",
+        "Name": "Communication 2",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7PB4B20",
+        "Name": "Climate-responsive Building Design",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2MBC60",
+        "Name": "Complex Analysis",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2WH40",
+        "Name": "Bachelor Final Project",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "JBP000",
+        "Name": "Final Bachelor Project",
+        "Quartiles": [
+            1, 3
+        ]
+    },
+    {
+        "Code": "1BEPIEX",
+        "Name": "Bachelor end project IE extension",
+        "Quartiles": [
+            1,2,3,4
+        ]
+    },
+    {
+        "Code": "DPB110",
+        "Name": "CBL-Project 1",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2WA80",
+        "Name": "Complex Analysis",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "8BE090",
+        "Name": "Computational biology",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "4CBLC20",
+        "Name": "Computer aided engineering",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5USUA0",
+        "Name": "Concept vs reality (note: 2nd course)",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7P9X0",
+        "Name": "Concrete and masonry structures",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "3CGX0",
+        "Name": "Condensed matter",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5AID0",
+        "Name": "DBL Autonomous vehicles conquering the world",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "8QC00",
+        "Name": "DBL Computational biology",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5XIC0",
+        "Name": "DBL Electronic systems engineering",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "6I2X0",
+        "Name": "DBL Energy",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "JBM230",
+        "Name": "Data Acquisition Methods",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2IIG0",
+        "Name": "Data Mining and Machine Learning",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "DASU20",
+        "Name": "Data acquisition and visualization through embodied sensors",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "JBE150",
+        "Name": "Data-Driven Business Creation",
+        "Quartiles": [
+            2,
+            4
+        ]
+    },
+    {
+        "Code": "2ID50",
+        "Name": "Datamodelling and Databases",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "0LSUC0",
+        "Name": "Decision theory",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "DDB100",
+        "Name": "Design < > research",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "DZC20",
+        "Name": "Design for games & play II; learning and persuasion in Games",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "4CBLA10",
+        "Name": "Design of a launching mechanism",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "4CC40",
+        "Name": "Design principles and analysis of production systems",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7EU1B20",
+        "Name": "Digital Built Environment",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7PPX0",
+        "Name": "Dimensioning of structures",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "JBI026",
+        "Name": "Discrete Mathematics",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2IT80",
+        "Name": "Discrete Structures",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "4DA00",
+        "Name": "Dynamics",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "4DB00",
+        "Name": "Dynamics and control of mechanical systems",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "JBM045",
+        "Name": "Econometrics for Data Science",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "0SV100",
+        "Name": "Economics of innovation: IPR and competition law institutions",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5EWE0",
+        "Name": "Electric circuits analysis for energy conversion",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5EWB0",
+        "Name": "Electrical power systems",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5EWD0",
+        "Name": "Electrical power systems for EE",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5EWA0",
+        "Name": "Electromechanics",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5EWF0",
+        "Name": "Electromechanics",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "5XCD0",
+        "Name": "Electronic Circuits 3",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5ECC0",
+        "Name": "Electronic circuits 2",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "6I1X0",
+        "Name": "Energy",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5XWC0",
+        "Name": "Energy management",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "4CBLC10",
+        "Name": "Engineering design 2",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "DCB220",
+        "Name": "Exploratory making",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2IAB0",
+        "Name": "Data Analytics for Engineers",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2IAB1",
+        "Name": "Foundations of Data Analytics",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2MBA80",
+        "Name": "Function and random-variable transforms",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "1BV30",
+        "Name": "Fundamentals of algorithmic programming for Operations Management",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5XCA0",
+        "Name": "Fundamentals of electronics",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5XSL0",
+        "Name": "Fundamentals of machine learning",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7EA3B20",
+        "Name": "Geometry and form",
+        "Quartiles": [
+            2,
+            4
+        ]
+    },
+    {
+        "Code": "2WF60",
+        "Name": "Graph theory and Combinatorics",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "0SSUH0",
+        "Name": "Happiness, health, and values",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "1BK00",
+        "Name": "Health information systems",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "8BE020",
+        "Name": "Heart & blood",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "8WB00",
+        "Name": "Heart and blood",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7A1B20",
+        "Name": "Histories of Architecture and Urbanism",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7X3X0",
+        "Name": "History of European architecture and urbanism",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "0HV100",
+        "Name": "Human factors",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "0LVX30",
+        "Name": "ITEC-Ethics of technology and engineering",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "4WEU00",
+        "Name": "Ideation and preliminary design",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "8BE100",
+        "Name": "Imaging techniques",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2DF30",
+        "Name": "Insurance and Credit Risk",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "1CK40",
+        "Name": "Intermediate finance and accounting",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "34IAS",
+        "Name": "Introduction to Astrophysics",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2MBD60",
+        "Name": "Introduction to Cryptology",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "JBM110",
+        "Name": "Introduction to Entrepreneurship and Business for Data Science",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "6BBR04",
+        "Name": "Introduction to Thermodynamics and Chemical Bonding",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "DAB150",
+        "Name": "Introduction to business design",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2WF80",
+        "Name": "Introduction to cryptology",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "1ZEUB0",
+        "Name": "Introduction to technology entrepreneurship",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7EA2B20",
+        "Name": "Landscape and public space",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "JBC090",
+        "Name": "Language and AI",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "1JK10",
+        "Name": "Leadership development and self-management in organizations",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "0HEUA0",
+        "Name": "Light and experience",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "31LAL",
+        "Name": "Linear Algebra",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2MBD50",
+        "Name": "Linear Algebra 1+2",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2MBA50",
+        "Name": "Linear Algebra 2",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2DRR00",
+        "Name": "Linear Algebra and Applications",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2WS40",
+        "Name": "Linear Statistical Models",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "6A6X0",
+        "Name": "Linear algebra & statistics",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "6BER02",
+        "Name": "Macro Organic Chemistry",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "6E3X0",
+        "Name": "Macro-organic chemistry",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "1ZSUA0",
+        "Name": "Marketing research and design methods",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "4MB10",
+        "Name": "Material models",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "8BA110",
+        "Name": "Materials science",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5EZA0",
+        "Name": "Math 1",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2WH30",
+        "Name": "Mathematical Modelling",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2DBA0",
+        "Name": "Matrices and Differential Equations",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "4GC10",
+        "Name": "Mechanical design project",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "31MEC",
+        "Name": "Mechanics",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "4UC10",
+        "Name": "Micromanufacturing",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7NN9X0",
+        "Name": "Multidisciplinary project 2",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "34NPC",
+        "Name": "Nanomaterials: Physics and Characterization",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "3ENX0",
+        "Name": "Nanomaterials: Physics and characterization",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5XIF0",
+        "Name": "Neuro computation",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5XPC0",
+        "Name": "Neurophysiology and neurostimulation",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "0SAB0",
+        "Name": "USEbasic: Ethics & History of Technology",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "0HV90",
+        "Name": "OGO quantitative research",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2IO75",
+        "Name": "DBL Embedded Systems",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "0SV90",
+        "Name": "OGO sustainable innovation: integration project",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2INC0",
+        "Name": "Operating Systems",
+        "Quartiles": [
+            2,
+            3
+        ]
+    },
+    {
+        "Code": "1CK130",
+        "Name": "Optimizing logistics network operations using simulation and digital twinning",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "0SSUC0",
+        "Name": "Patents design rights & standards specialized course",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "3PHYS",
+        "Name": "Physics for Engineers",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "3CFX0",
+        "Name": "Physics in perspective",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "32PTP",
+        "Name": "Physics of Transport Phenomena",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7EB1B20",
+        "Name": "Physics of light and lighting design",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "6BER08",
+        "Name": "Polymer Chemistry & Technology 2",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "4CA10",
+        "Name": "Principles of design and programming",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "1CK50",
+        "Name": "Production and inventory control (non IE)",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2IPC0",
+        "Name": "Programming Methods",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2IPE0",
+        "Name": "Software Engineering Project",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "6BBR06",
+        "Name": "Programming and Linear Algebra",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2MBA30",
+        "Name": "Programming and Modelling (CBL Component)",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "31PAP",
+        "Name": "Programming for Applied Physics",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7PA2B20",
+        "Name": "Project 2 Architectural Urban Design and Engineering",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7PS2B20",
+        "Name": "Project 2 Structural Engineering & Construction Technology",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7PU2B20",
+        "Name": "Project Green, healthy and social neighborhoods",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7P2B10",
+        "Name": "Project M",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "8BA100",
+        "Name": "Project year 2",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "8BA103",
+        "Name": "Project: Advanced programming & biomedical data analysis",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "8BA101",
+        "Name": "Project: Antihypertensive Drug Discovery",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "8BA104",
+        "Name": "Project: Blood Oxygenation Imaging with light & sound",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "8BA102",
+        "Name": "Project: In Vitro Modeling",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "1CV40",
+        "Name": "Quality and reliability engineering",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "34QOQ",
+        "Name": "Quantum Optics and Quantum Information",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "3FQX0",
+        "Name": "Quantum optics and quantum information",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "0LSUE0",
+        "Name": "Rational agents: robots & artificial intelligence",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7U9X0",
+        "Name": "Research and statistics",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5ESF0",
+        "Name": "Signals and systems",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "0HV30",
+        "Name": "Social and environmental psychology",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "3QSUS0",
+        "Name": "Sociophysics 2",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7S1B10",
+        "Name": "Statics of structures",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2DD80",
+        "Name": "Statistics for IE",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "0SV120",
+        "Name": "Statistics for Sustainable Innovation",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5XEC0",
+        "Name": "Final bachelor project (BEP)",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "33ACE",
+        "Name": "Advanced Computational and Experimental Skills",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7S2B30",
+        "Name": "Bachelor end project SED",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "DPB120",
+        "Name": "CBL-Project 2",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7A2B30",
+        "Name": "Bachelor End Project AUDE 1 architecture, AUDE 2 urbanism and architecture",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "0HV40",
+        "Name": "Brain, body & behaviour",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7P1B30",
+        "Name": "Multidisciplinary project",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7S0B30",
+        "Name": "Concrete and Masonry Structures",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7S1B20",
+        "Name": "Steel structures and applied mechanics",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2MBS30",
+        "Name": "Stochastic Processes",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "33BFP",
+        "Name": "Bachelor's Final Project",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "1ZV70",
+        "Name": "Strategic and organizational perspectives on product innovation",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "1ZVK00",
+        "Name": "Strategic and organizational perspectives on product innovation",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "JBG030",
+        "Name": "DBL Data Challenge",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7A0B30",
+        "Name": "Architecture and Technology",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "6BFR01",
+        "Name": "Bachelor Final Project",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "0BEPS0",
+        "Name": "Final project bachelor Sustainable Innovation",
+        "Quartiles": [
+            1, 3
+        ]
+    },
+    {
+        "Code": "7U2B30",
+        "Name": "Bachelor end project USRE",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5APB0",
+        "Name": "Power Electronics",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "33CMA",
+        "Name": "Condensed Matter",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "7U1B30",
+        "Name": "Urban Projects & Finance",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "4CBLB10",
+        "Name": "Sustainable Fuels: Plan A or B?",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7PB2B20",
+        "Name": "Sustainable Retrofit",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "0SV10",
+        "Name": "Sustainable technology in society: introduction",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "5ESB0",
+        "Name": "Systems",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "2WN30",
+        "Name": "Theory and practice of ordinary differential equations",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "4PC00",
+        "Name": "Thermal and fluid engineering",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "32TDY",
+        "Name": "Thermodynamics",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "0HV60",
+        "Name": "Thinking and deciding",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "DZB170",
+        "Name": "Trends and forecasting",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "7U7X0",
+        "Name": "Urban projects and finance",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "JBI100",
+        "Name": "Visualization",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "8BE130",
+        "Name": "AI medical imaging",
+        "Quartiles": [
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "32AQP",
+        "Name": "Advanced Quantum Physics",
+        "Quartiles": [
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "2DBN10",
+        "Name": "Advanced calculus",
+        "Quartiles": [
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "6A7X0",
+        "Name": "Advanced chemical bonding electricity and magnetism",
+        "Quartiles": [
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "0HSUA0",
+        "Name": "Advancing light for human functioning",
+        "Quartiles": [
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "0BTE00",
+        "Name": "Advancing light for human functioning – entrepreneurship in lighting",
+        "Quartiles": [
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "2WF50",
+        "Name": "Algebra and Discrete Mathematics",
+        "Quartiles": [
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "2MBA60",
+        "Name": "Analysis 2",
+        "Quartiles": [
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "8BE150",
+        "Name": "Analytical chemistry",
+        "Quartiles": [
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "0HV130",
+        "Name": "Applied Data Skills",
+        "Quartiles": [
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "2MBD30",
+        "Name": "Applied Number Theory and Algebra",
+        "Quartiles": [
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "8TC20",
+        "Name": "Basic tissue engineering",
+        "Quartiles": [
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "0HV00",
+        "Name": "Behavioral research methods 1: designing research",
+        "Quartiles": [
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "5XCC0",
+        "Name": "Biopotential and neural interface circuits",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "1BK20",
+        "Name": "Business process simulation",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "3BYX0P",
+        "Name": "CBL Systems and control project",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7B1B10",
+        "Name": "Circularity and Energy Performance in the Built Environment",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "JBC000",
+        "Name": "Cognitive Science and AI",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2MBD70",
+        "Name": "Combinatorics and Applications",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7PS3B21",
+        "Name": "Combined project Structural & Architectural Design 3",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5XTC0",
+        "Name": "Components in wireless technologies",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "8BE140",
+        "Name": "Computational biomechanics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5EIC0",
+        "Name": "Computer architecture",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2IC30",
+        "Name": "Computer systems",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2IC60",
+        "Name": "Computer Networks and Security",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "4CBLB20",
+        "Name": "Control of a flexible robot system",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "4CB40",
+        "Name": "Control of manufacturing systems",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "DBB100",
+        "Name": "Creative programming",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2IS70",
+        "Name": "DBL App development",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "6E6X0",
+        "Name": "DBL Molecules and materials",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "31DAP",
+        "Name": "Data Acquisition and Processing",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "JBG040",
+        "Name": "Data Challenge 1",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "JBI050",
+        "Name": "Data Management for Data Analytics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "JBG000",
+        "Name": "Data Science Ethics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "JBM015",
+        "Name": "Data Statistics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2IL50",
+        "Name": "Data Structures",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5XSK0",
+        "Name": "Data fusion & semantic interpretation",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2ID70",
+        "Name": "Data-intensive Systems and Applications",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "0LAUH0",
+        "Name": "Decisions Under Risk and Uncertainty Project Course",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "DCB250",
+        "Name": "Design and sensorial form",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "DZC30",
+        "Name": "Design for games & play III; playful interactions",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "DAB200",
+        "Name": "Design innovation methods",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "4CC50",
+        "Name": "Design principles",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "1JZK40",
+        "Name": "Designing business processes",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "DBSU10",
+        "Name": "Designing connected experiences",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "DAAU20",
+        "Name": "Designing for vitality in a real-life setting",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "4WSU00",
+        "Name": "Detailing, realization and RPC test",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2MBC70",
+        "Name": "Differential Geometry",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "8LAU03",
+        "Name": "Digital Twin in Healthcare 3: Implementation & operation phase",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "0HVI00",
+        "Name": "Digital tools & human wellbeing: balancing innovation and mindful interaction",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "4EC10",
+        "Name": "Dynamics of energy systems",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "4AUB10",
+        "Name": "Electric and hybrid vehicle powertrain design",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5XWB0",
+        "Name": "Electric drive systems",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "3EEX0",
+        "Name": "Electrodynamics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "31EMA",
+        "Name": "Electromagnetism",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5XCB0",
+        "Name": "Electronic and photonic components",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5ECD0",
+        "Name": "Electronic circuits 1",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "1ZVETU10",
+        "Name": "EuroTeQ Collider: Entrepreneurship & Innovation",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "4MC00",
+        "Name": "Experimental and numerical skills",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7P1X0",
+        "Name": "Experimental research of structures and materials",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "JBM170",
+        "Name": "Field Data Acquisition and Analysis",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2DF40",
+        "Name": "Financial Mathematics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "0SV20",
+        "Name": "From industrial ecology to a circular economy: mass flow based concepts",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "JBI060",
+        "Name": "Fundamentals of Process Mining",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "1BV00",
+        "Name": "Fundamentals of business information systems",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "1CV10",
+        "Name": "Fundamentals of financial and management accounting",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "1CV00",
+        "Name": "Fundamentals of operations management",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "0SV130",
+        "Name": "Global sustainability and Innovation",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2MBD10",
+        "Name": "Graph Theory and Applications",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "0HVL10",
+        "Name": "Healthful environments: light, wellbeing and the biological clock",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "8BB050",
+        "Name": "Imaging",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "0LVX20",
+        "Name": "Impact of technology : engineering for society",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "0LVX20PILOT",
+        "Name": "Impact of technology : engineering for society",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5XSE0",
+        "Name": "Information theory",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "1ZAUA0",
+        "Name": "Innovating by design",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5EPG0",
+        "Name": "Introduction Photonics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2WN20",
+        "Name": "Introduction numerical analysis",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2MBC10",
+        "Name": "Introduction to Numerical Analysis",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "4RA10",
+        "Name": "Introduction transport phenomena",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "6BAR02",
+        "Name": "Kinetics and Electrochemistry",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "8BE110",
+        "Name": "Lab on a chip",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "8P380",
+        "Name": "Lab on a chip microdevices",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7W0X0",
+        "Name": "Landscape and public space",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "0SAUA0",
+        "Name": "Learning line quality of life: projects",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "34MLS",
+        "Name": "Machine Learning in Science",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "3EBX0",
+        "Name": "Machine learning in science",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "1CK60",
+        "Name": "Maintenance and service logistics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "0SV50",
+        "Name": "Managing sustainable technology challenges in practice",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "1ZV20",
+        "Name": "Marketing perspectives on product innovation",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7S7X0",
+        "Name": "Materialization of facades and roofs",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "6BMR06",
+        "Name": "Materials Science 2",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5EZC0",
+        "Name": "Math 3",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "JBM060",
+        "Name": "Mathematical Analysis and Probability Theory for Data Science",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "8BM040",
+        "Name": "Mechanobiology",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "4CC10",
+        "Name": "Mechatronic design",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5XSD0",
+        "Name": "Medical ultrasound",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "3FOX0",
+        "Name": "Modeling and simulation at the (bio)molecular scale",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "34MSB",
+        "Name": "Modelling and Simulation at the Biomolecular Scale",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5XSN0",
+        "Name": "Monitoring brain functions in healthcare",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "4CBLA20",
+        "Name": "Multiped robot",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "31MCA",
+        "Name": "Multivariable Calculus",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5XPB0",
+        "Name": "Nano devices and integration",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "6BER03",
+        "Name": "Numerical Methods",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "6E5X0",
+        "Name": "Numerical methods",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "6BMR01",
+        "Name": "Organic Chemistry 1",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "1ZSUC0",
+        "Name": "Organizing entrepreneurship",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "DUB220",
+        "Name": "Participatory reimagining: Imagining with {",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "6BAR01",
+        "Name": "Physical Chemistry 1",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "6BPR01",
+        "Name": "Physical Transport Phenomena 1",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5EPE0",
+        "Name": "Physics for AT",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5EPD0",
+        "Name": "Physics for EE",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7HK30",
+        "Name": "Physics of light and lighting design",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5APA0",
+        "Name": "Power electronics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2DRR10",
+        "Name": "Probability and Statistics for CS",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2ITA0",
+        "Name": "Process Theory",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2ITX0",
+        "Name": "Applied Logic",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "3NAB0",
+        "Name": "Applied Natural Sciences",
+        "Quartiles": [
+            2
+        ]
+    },
+    {
+        "Code": "6E8X0",
+        "Name": "Process dynamics and control",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7PA3B20",
+        "Name": "Project 3 Architectural Urban Design and Engineering",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7PS3B20",
+        "Name": "Project 3 Structural Engineering & Building Technology",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "8P361",
+        "Name": "Project AI for medical image analysis",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7P3B10",
+        "Name": "Project L",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7PU3B20",
+        "Name": "Project Urban mobility",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7M6X0",
+        "Name": "Project smart cities",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2ITB0",
+        "Name": "Provable Programming",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "0HVR00",
+        "Name": "Recognising & implementing social cues for HRI",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7PB3B20",
+        "Name": "Regenerative Building Design",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2IX30",
+        "Name": "Responsible Data Science",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "1CK120",
+        "Name": "Revenue Management and Pricing Analytics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "JBM150",
+        "Name": "Risk Management and Data Protection",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2MBS90",
+        "Name": "Risk, Reliability and Resilience",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "6BPR03",
+        "Name": "Separation Technology",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "6P2X0",
+        "Name": "Separation technology",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "3BYX0",
+        "Name": "Signals and systems",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "0HV150",
+        "Name": "Sociology & social network analysis",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "3QAUS0",
+        "Name": "Sociophysics 3",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "4MB00",
+        "Name": "Solid mechanics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7X8X0",
+        "Name": "Spatial imagination",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5ATB0",
+        "Name": "Spectrum of automotive",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "DAB130",
+        "Name": "Stakeholder perspectives in design",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "JBM100",
+        "Name": "Stochastic Optimization Models for Data Science",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2MBS40",
+        "Name": "Stochastic Simulation and Modeling",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "1CV60",
+        "Name": "Stochastic operations management",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2WB60",
+        "Name": "Stochastic performance modelling",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2WB50",
+        "Name": "Stochastic simulation",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "4LC00",
+        "Name": "Strength and structure",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "4MA00",
+        "Name": "Structure and properties of materials",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "DEB100",
+        "Name": "Sustainability & Design",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "0SK30",
+        "Name": "Sustainability challenge: the future city of 1.5 degrees",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "1ZK20",
+        "Name": "Sustainability perspectives on product innovation",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "8BM050",
+        "Name": "Systems biology models",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7U1B10",
+        "Name": "Systems in the City",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2WAH0",
+        "Name": "Tensor Calculus and Differential Geometry",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7S6X0",
+        "Name": "The science of sound",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "34TCM",
+        "Name": "Theoretical Classical Mechanics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "3EMX0",
+        "Name": "Theoretical classical mechanics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7S2B20",
+        "Name": "Timber Structures and Applied Mechanics",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "6BER04",
+        "Name": "Topics in Molecules and Materials",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "6E7X0",
+        "Name": "Topics in molecules and materials",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7EU2B20",
+        "Name": "Transportation engineering",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7W9X0",
+        "Name": "Transportation engineering",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "34TWI",
+        "Name": "Turbulence, Waves, and Instabilities",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "3FTX0",
+        "Name": "Turbulence, waves and instabilities",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7A2B20",
+        "Name": "Type & Form",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7B0B20",
+        "Name": "Urban physics: wind, acoustics, insolation and precipitation",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7S0X0",
+        "Name": "Urban physics: wind, acoustics, insolation and precipitation",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7EA4B20",
+        "Name": "Urbanism and architecture in context",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7XWX0",
+        "Name": "Urbanism and architecture in context",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "5UAUA0",
+        "Name": "Validation to sales (note: 3rd course)",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "2MBC40",
+        "Name": "Vector Analysis and Geometry",
+        "Quartiles": [
+            3
+        ]
+    },
+    {
+        "Code": "7W2X0",
+        "Name": "Walkscapes",
+        "Quartiles": [
+            3,
+            4
+        ]
+    },
+    {
+        "Code": "2IP85",
+        "Name": "Advanced Software Engineering",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "JBI045",
+        "Name": "Algorithmic Aspects of Data Analysis",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2IBA00",
+        "Name": "Algorithms Engineering",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "8BM060",
+        "Name": "Applied immunology",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "6BMR04",
+        "Name": "Biochemistry and Technology",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "8BA090",
+        "Name": "Biomechanics",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "8TB00",
+        "Name": "Biomechanics",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "JBM025",
+        "Name": "Data Science Research Methods",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "DRB170",
+        "Name": "Design actuated systems",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "31DAE",
+        "Name": "Design and Automation in Experiments",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7P8X0",
+        "Name": "Design of structures",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "4DC00",
+        "Name": "Dynamics and control of robotic systems",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "0SV60",
+        "Name": "Economic policy",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "5EPB0",
+        "Name": "Electromagnetics II",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "4CBLA30",
+        "Name": "Energy storage and transport",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "5EID0",
+        "Name": "Engineering challenge for Venus",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "JBM165",
+        "Name": "Entrepreneurship Theory & Practice",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "3B3X0",
+        "Name": "Experimental physics 3",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2WS60",
+        "Name": "Extreme values and other catastrophes",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "8BB060",
+        "Name": "Flow & diffusion",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2WAF0",
+        "Name": "Functional analysis",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "34FEH",
+        "Name": "Fundamentals of Energy Harvesting and Storage",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "1ZV50",
+        "Name": "Fundamentals of product innovation",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "3ERX0",
+        "Name": "General theory of relativity",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7U8X0",
+        "Name": "Geographic modeling of the built environment",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "4PB00",
+        "Name": "Heat and flow",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2ILH0",
+        "Name": "Heuristic Algorithms",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7UUX0",
+        "Name": "Housing, real estate and urban economics",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "DDB180",
+        "Name": "ID Green – design perspectives on sustainability",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "0LVX10",
+        "Name": "ITEC-Ethics of technology and engineering",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "JBL110",
+        "Name": "Innovation and Regulation",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "6M2X0",
+        "Name": "Inorganic chemistry",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "8P313",
+        "Name": "Instrumental analysis",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "DBB220",
+        "Name": "Intelligent interactive products",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "DCB210",
+        "Name": "Intercultural design",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "0SV150",
+        "Name": "International development and sustainability (Bachelor level)",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "4RC30",
+        "Name": "Introduction to computational fluid dynamics",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "5XSA0",
+        "Name": "Introduction to medical image processing",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2IC80",
+        "Name": "Lab on Offensive Computer Security",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "JBL125",
+        "Name": "Law and Data Science",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2DBI00",
+        "Name": "Linear Algebra and Applications",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "JBM075",
+        "Name": "Linear Algebra for Data Science",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2MBD40",
+        "Name": "Linear Optimization",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "JBM035",
+        "Name": "Linear Optimization for Data Science",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "DAB100",
+        "Name": "Making sense of sensors",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "0SV40",
+        "Name": "Managing sustainable technology",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "1CV50",
+        "Name": "Manufacturing integration course",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "1ZAUC0",
+        "Name": "Marketing in action",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "6BMR03",
+        "Name": "Materials Science 1",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "5EZB0",
+        "Name": "Math 2",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2DD50",
+        "Name": "Mathematics 2",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "5EMA0",
+        "Name": "Mathematics II",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2MBA90",
+        "Name": "Mathematics and Practice in Historical Perspective",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2WH60",
+        "Name": "Mathematics and Practice in Historical Perspective",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "4CBLC30",
+        "Name": "Mechanical design project",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "8BE030",
+        "Name": "Medical image analysis",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7W4X0",
+        "Name": "Mobility and forecasting",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "4CBLW00",
+        "Name": "Multidisciplinary CBL",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "0HV70",
+        "Name": "OGO qualitative methods for observation, analysis and reporting",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "31OPT",
+        "Name": "Optics",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "3BOX0",
+        "Name": "Optics",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2WA70",
+        "Name": "Ordinary differential equations",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "6BMR02",
+        "Name": "Organic Chemistry 2",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2WA90",
+        "Name": "Partial differential equations",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "0HV20",
+        "Name": "Perception and motor control",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "6BER05",
+        "Name": "Physical Chemistry 2",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "6E4X0",
+        "Name": "Physical chemistry",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "5XWA0",
+        "Name": "Power system analysis and optimization",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "5XWG0",
+        "Name": "Power system computation and simulation",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2MBS10",
+        "Name": "Probability and Modeling",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2WS20",
+        "Name": "Probability theory",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "6E9X0",
+        "Name": "Process design",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2IRS0",
+        "Name": "Computer Science Research Project",
+        "Quartiles": [
+            1
+        ]
+    },
+    {
+        "Code": "2IRR05",
+        "Name": "Programming Methods",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "8BA080",
+        "Name": "Programming for data analytics",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7PA4B20",
+        "Name": "Project 4 Architectural Urban Design and Engineering",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7PS4B20",
+        "Name": "Project 4 Research project in Structural design (SED)",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7PU4B20",
+        "Name": "Project Urban restructuring",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7P4AB10",
+        "Name": "Project architectural design",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7P4BB10",
+        "Name": "Project research and experiments to improve building design",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7P4SB10",
+        "Name": "Project structural design",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7P4UB10",
+        "Name": "Project urban living - analysis & (re)development of urban areas",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "1CK20",
+        "Name": "Quantitative modeling and analysis of business processes",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2WB40",
+        "Name": "Queueing systems",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2MBS70",
+        "Name": "Queuing Systems",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2MBS50",
+        "Name": "Regression Models and Applications",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7X0X0",
+        "Name": "Research in urbanism and architecture I",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "0HAUA0",
+        "Name": "Secret life of light USE project",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2IRR40",
+        "Name": "Security",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "5AIB0",
+        "Name": "Sensing computing & actuating",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "5ESG0",
+        "Name": "Signal processing",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "4CA20",
+        "Name": "Signals and systems",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2IRR00",
+        "Name": "Software Design",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7SAX0",
+        "Name": "Sounds good!",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "32SPH",
+        "Name": "Statistical Physics",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2IRR50",
+        "Name": "Statistics and Machine learning",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2WB20",
+        "Name": "Stochastic Processes",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "4LB00",
+        "Name": "Strength and structure",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7AS1B10",
+        "Name": "Structure & Architecture",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "4RC00",
+        "Name": "Structure and Flow",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "34SPH",
+        "Name": "Subatomic Physics",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "3FSX0",
+        "Name": "Subatomic physics",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "8CB20",
+        "Name": "System estimation and control for biology",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "2MBC20",
+        "Name": "Theory and Applications of Ordinary Differential Equations (CBL component)",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "3BTX0",
+        "Name": "Thermal physics",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7X2X0",
+        "Name": "Urban case study",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "4WAU00",
+        "Name": "User testing, evaluation and improvement",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "7EA8B20",
+        "Name": "Walkscapes",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "1BEPIE",
+        "Name": "Bachelor end project IE",
+        "Quartiles": [
+            1, 3
+        ]
+    },
+    {
+        "Code": "DPB390",
+        "Name": "Final bachelor project",
+        "Quartiles": [
+            1, 3
+        ]
+    },
+    {
+        "Code": "6BPR04",
+        "Name": "Chemical Reactors",
+        "Quartiles": [
+            4
+        ]
+    },
+    {
+        "Code": "6BER10",
+        "Name": "Molecular Simulations in CE&C",
+        "Quartiles": [
+            3
+        ]
+    }
+]
