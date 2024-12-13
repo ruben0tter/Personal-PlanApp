@@ -70,6 +70,8 @@ const majorsLabel = document.querySelector('.info-majors-input');
 const ectsLabel = document.querySelector('.info-ects-input');
 const table = document.querySelector('.table');
 const savedList = document.querySelector('.saved');
+const leftBox = document.querySelector('.left-box');
+const rightBox = document.querySelector('.right-box');
 
 var allCourses;
 var selectedMajors;
@@ -117,6 +119,14 @@ function fetchSaves() {
 }
 
 function loadSaves() {
+    if (saves.length === 0) {
+        rightBox.style.display = 'none';
+        leftBox.style.flex = '0 0 100%';
+    } else {
+        rightBox.style.display = 'block';
+        leftBox.style.flex = '0 0 82.5%';
+    }
+
     while ( savedList.firstChild ) savedList.removeChild( savedList.firstChild );
 
     for(let i = 0; i < saves.length; i++) {
@@ -124,6 +134,9 @@ function loadSaves() {
         save.className = "saved-item";
         save.innerHTML = `${saves[i].Name}`;
         savedList.appendChild(save);
+        let saveDel = document.createElement('i');
+        saveDel.className = "fas fa-xmark icon save-delete";
+        save.appendChild(saveDel);
     }
 }
 
@@ -215,8 +228,6 @@ function generatePlan() {
             selectedPlan.splice(i, 1);
         }
     }
-
-    console.log(selectedPlan);
 
     visualizePlan();
 }
@@ -351,10 +362,34 @@ saveButton.addEventListener('click', () => {
 });
 
 savedList.addEventListener('click', (event) => {
-    plan.style.visibility = 'visible';
-    let save = saves.find(x => x.Name === event.target.innerHTML);
-    selectedPlan = save.Plan;
-    selectedMajors = save.Majors;
-    selectedCourses = save.Courses;
-    visualizePlan();
+    if (event.target.className === "saved-item") {
+        plan.style.visibility = 'visible';
+        let save = saves.find(x => x.Name === event.target.innerHTML.substring(0, event.target.innerHTML.indexOf('<')));
+        selectedPlan = save.Plan;
+        selectedMajors = save.Majors;
+        selectedCourses = save.Courses;
+        visualizePlan();
+    } else if (event.target.className === "fas fa-xmark icon save-delete") {
+        let parent = event.target.parentElement;
+        console.log(parent);
+        let saveIndex = saves.findIndex(x => x.Name === parent.innerHTML.substring(0, parent.innerHTML.indexOf('<')));
+        saves.splice(saveIndex, 1);
+        
+        const jsonContent = JSON.stringify(saves, null, 2);
+
+        // Send JSON to the server
+        fetch('/data/saves', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: jsonContent,
+        })
+        .then(response => response.json())
+        .catch(error => {
+            console.error('Error:', error);
+        });
+    
+        loadSaves();
+    }
 });

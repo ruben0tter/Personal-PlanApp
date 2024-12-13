@@ -49,7 +49,7 @@ body {
 }
 
 .left-box {
-    flex: 0 0 80%;
+    flex: 0 0 82.5%;
     height: 100%;
     padding-right: 2em;
 }
@@ -62,7 +62,6 @@ body {
 }
 
 .icon {
-    font-size: 2em;
     color: var(--primary-color);
     transition: text-shadow 0.3s ease;
 }
@@ -70,6 +69,10 @@ body {
 .icon:hover {
     cursor: pointer;
     text-shadow: 0 4px 8px rgba(var(--secondary-color-rgb), 0.8);
+}
+
+.dark-mode {
+    font-size: 2em;
 }
 
 .button {
@@ -205,12 +208,9 @@ body {
     color: var(--secondary-color);
 }
 
-.whitespace {
-    padding-top: 2em;
-}
-
 .right-box {
-    flex: 0 0 20%;
+    display: none;
+    flex: 0 0 17.5%;
     min-height: calc(100vh - 4em);
 }
 
@@ -230,9 +230,21 @@ body {
     border-color: var(--primary-color);
     cursor: pointer;
     font-size: 1.25em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     transition: color 0.3s ease;
 }
 
 .saved-item:hover {
     color: var(--primary-color);
+}
+
+.saved-item:has(.save-delete:hover) {
+    color: var(--secondary-color);
+}
+
+.save-delete:hover {
+    cursor: pointer;
+    color: #b50505;
 }
