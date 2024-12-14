@@ -357,8 +357,6 @@ saveButton.addEventListener('click', () => {
         console.error('Error:', error);
     });
 
-    fetchSaves();
-
     loadSaves();
     name.value = "";
 });
