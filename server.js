@@ -5,7 +5,7 @@ const app = express();
 const port = 3000;
 
 // Middleware to parse JSON from incoming requests
-app.use(express.json());
+app.use(express.json({limit: '100mb'}));
 
 // Serve static files from the "public" folder
 app.use(express.static(path.join(__dirname, 'public')));

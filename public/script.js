@@ -357,6 +357,8 @@ saveButton.addEventListener('click', () => {
         console.error('Error:', error);
     });
 
+    fetchSaves();
+
     loadSaves();
     name.value = "";
 });
@@ -374,7 +376,7 @@ savedList.addEventListener('click', (event) => {
         console.log(parent);
         let saveIndex = saves.findIndex(x => x.Name === parent.innerHTML.substring(0, parent.innerHTML.indexOf('<')));
         saves.splice(saveIndex, 1);
-        
+
         const jsonContent = JSON.stringify(saves, null, 2);
 
         // Send JSON to the server
